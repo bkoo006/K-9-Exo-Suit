@@ -1,4 +1,4 @@
-# K-9ExoSuit
+# K-9 Exo Suit
 
 Demo video: https://www.youtube.com/watch?v=KosmdjRvXV4&ab_channel=BadrAsi
 
