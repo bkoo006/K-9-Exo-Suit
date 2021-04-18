@@ -14,3 +14,17 @@ The CAD files were created in Autodesk Fusion 360. Files are provided under the 
 
 ## Servos
 Dynamixel AX-12A servo motors were used as the hip and knee joints of the prosthetic model. The servo motors were programmed using the Dynamixel SDK and Raspberry Pi.
+
+## Remote Web App
+The Web Application is run through phpMyAdmin which is connected by an Apache2 web server. A SQL server database stores the data obtained by the suit and communicates with the web server to display on phpMyAdmin. 
+
+Tutorial links are below for setting up the web server and database with Raspberry Pi 4:
+
+Setting up Apache2:
+https://www.raspberrypi.org/documentation/remote-access/web-server/apache.md
+
+Setting up MySQL Database:
+https://pimylifeup.com/raspberry-pi-mysql/
+
+Installing PHPMyAdmin:
+https://pimylifeup.com/raspberry-pi-phpmyadmin/
